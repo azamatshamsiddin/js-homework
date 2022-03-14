@@ -1,0 +1,11 @@
+:root {
+  --bs-body-bg: rgb(131, 218, 233) !important;
+}
+
+body {
+  background-color: var(--bs-body-bg);
+  font-size: 1.2rem !important;
+}
+.form-input {
+  font-size: 1.2rem !important;
+}
